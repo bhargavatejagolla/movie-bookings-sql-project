@@ -66,6 +66,10 @@ Using these tables, the project performs queries to:
 
 ---
 
+### 3. Data Analysis & Findings
+
+The following SQL queries were developed to answer specific business questions:
+
 ```Calculate average age of male customers:```
 ```sql
 SELECT AVG(age) FROM customers WHERE gender = 'Male';
@@ -116,14 +120,14 @@ CREATE TABLE bookings (
     cost INT
 );
 
--- 📥 Insert sample bookings data
+--  Insert sample bookings data
 INSERT INTO bookings (booking_id, customer_id, movie_id, booking_date, ticket_quantity, timings, cost) VALUES
 (1, 5, 1, '2023-06-01', 2, '18:00:00', 20),
 (2, 15, 3, '2023-06-02', 3, '20:30:00', 30),
 -- ... (remaining bookings omitted for brevity)
 (24, 8, 12, '2023-06-15', 1, '17:30:00', 10);
 
--- 📊 Queries
+--  Queries
 -- 1. Average age of male customers
 SELECT AVG(age) FROM customers WHERE gender = 'Male';
 
