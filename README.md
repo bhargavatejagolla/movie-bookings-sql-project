@@ -46,7 +46,7 @@ Using these tables, the project performs queries to:
 - Classify customers into age groups.
 - Perform advanced SQL queries using joins, subqueries, and window functions.
 
----
+***
 
 ## Project Structure
 
