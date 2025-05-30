@@ -8,7 +8,7 @@ This project demonstrates essential SQL skills through managing and analyzing a 
 ## Project Title
 **Movie Bookings Analysis**
 
----
+***
 
 ## Level
 Beginner to Intermediate
