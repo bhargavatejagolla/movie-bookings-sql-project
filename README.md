@@ -280,5 +280,5 @@ This project is not only academic but can also be applied to real-world domains 
 
 **Golla Bhargava Teja**  
 
-- 🌐 [Portfolio / Projects](https://github.com/bhargavatejagolla)  
+- 🌐 [Projects](https://github.com/bhargavatejagolla)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/golla-bhargava-teja/)  
